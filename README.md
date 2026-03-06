@@ -10,7 +10,7 @@ Tugas mata kuliah Pemrograman Python (Machine Learning)
 |-----|------|------|----------------|
 | 20124084 | DA'IFA MAULANA | Product Manager | daifa-maulana |
 | 20124108 | ARI ARIPIN | Software Engineer | Ariaripin23 |
-| 20124082 | TIARA AULIA SEPTIANI | UI/UX Designer | Tiaraaulia28 |
+| 20124082 | TIARA AULIA SEPTIANI | Data Scientist | Tiaraaulia28 |
 | 20124076 | NINDA SYAIMA ZAIN | UI/UX Designer | ninda20124076-create |
 ## Project Organization
 
